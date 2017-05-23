@@ -22,5 +22,5 @@ finding_nemo = media.Movie("Finding Nemo",
                            "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
                            "https://www.youtube.com/watch?v=wZdpNglLbt8")
 
-movies = [Toy_story,avatar,Finding_Nemo]
+movies = [toy_story,avatar,finding_nemo]
 fresh_tomatoes.open_movies_page(movies)
